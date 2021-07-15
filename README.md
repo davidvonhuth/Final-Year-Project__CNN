@@ -8,7 +8,7 @@ This text file is meant to accompany the pre-processing script and CNN training 
 
 
 
---------------------------------------------------< INSTRUCTIONS PRE-PROCESSING SCRIPT >----------------------------------------------------
+-------------------------------< INSTRUCTIONS PRE-PROCESSING SCRIPT >------------------------------
 
 In order to make the training script "pre-processing.py" run, the raw PSG files must first be downloaded. For this project, the data
 was taken from the Montreal Archive of Sleep Studies (MASS), cohort 1, subset SS2. From this source, the PSGs and K-complex 
@@ -34,7 +34,7 @@ annotations come as EDF files, while the sleep spindle annotations come as csv f
 
 
 
----------------------------------------------------< INSTRUCTIONS CNN TRAINING SCRIPT >-----------------------------------------------------
+---------------------------< INSTRUCTIONS CNN TRAINING SCRIPT >------------------------------
 
 Once the pickled file has been uploaded to Google Drive, the following instructions should be followed:
 
